@@ -1,0 +1,6 @@
+bin
+cache
+vendor
+*.log
+*.phar
+*.cache
